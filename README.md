@@ -2,15 +2,13 @@
 
 Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. This project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/...)
-
 ## Getting Started
 
 OWASP Top 10 for Node.js web applications:
 
 ### Know it!
-1. PLEASE UPDATE THE GITPOD LINK '...' TO POINT TO YOUR FORKED REPO AND THEN CLICK THE LINK
-2. Once the application is running, you can access the tutorial page at [http://localhost:4000/tutorial](http://localhost:4000/tutorial) (or the port you have configured).
+1. Please update the gitpod link '...' to point to your forked git repo and then click [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/...) to deploy
+2. Once the application is running, you can access the tutorial page at */tutorial* and follow the guide
  
 This application bundled a tutorial page that explains the OWASP Top 10 vulnerabilities and how to fix them.
 
