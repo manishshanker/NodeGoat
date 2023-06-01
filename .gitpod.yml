@@ -8,6 +8,6 @@ image:
   file: .gitpod.dockerfile
 tasks:
   - init: npm install
-    command: npm run start
+    command: docker-compose up
 
 
