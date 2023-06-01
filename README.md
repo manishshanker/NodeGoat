@@ -2,6 +2,8 @@
 
 Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. This project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/manishshanker/NodeGoat)
+
 ## Getting Started
 
 OWASP Top 10 for Node.js web applications:
