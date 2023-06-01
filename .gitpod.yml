@@ -4,8 +4,6 @@
 
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
 
-image:
-  file: .gitpod.dockerfile
 tasks:
   - init: npm install
     command: docker-compose up
